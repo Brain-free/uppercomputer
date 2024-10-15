@@ -1,0 +1,15 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\qtUpgradeTools.dir\Src\iap\iap.cpp.obj: dyndep
+
+build CMakeFiles\qtUpgradeTools.dir\Src\main.cpp.obj: dyndep
+
+build CMakeFiles\qtUpgradeTools.dir\Src\mainwindow.cpp.obj: dyndep
+
+build CMakeFiles\qtUpgradeTools.dir\Src\packager\crc.cpp.obj: dyndep
+
+build CMakeFiles\qtUpgradeTools.dir\Src\packager\packager.cpp.obj: dyndep
+
+build CMakeFiles\qtUpgradeTools.dir\Src\packager\payload.cpp.obj: dyndep
+
+build CMakeFiles\qtUpgradeTools.dir\Src\serial\serial_port.cpp.obj: dyndep
+

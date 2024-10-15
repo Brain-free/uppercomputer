@@ -1,0 +1,5 @@
+D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6/CMakeFiles/qtUpgradeTools.dir
+D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6/CMakeFiles/edit_cache.dir
+D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6/CMakeFiles/rebuild_cache.dir
+D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6/CMakeFiles/qtUpgradeTools_autogen_timestamp_deps.dir
+D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6/CMakeFiles/qtUpgradeTools_autogen.dir

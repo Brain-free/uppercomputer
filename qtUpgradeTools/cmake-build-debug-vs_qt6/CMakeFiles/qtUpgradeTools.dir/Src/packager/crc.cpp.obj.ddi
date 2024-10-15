@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\qtUpgradeTools.dir\\Src\\packager\\crc.cpp.obj",
+            "outputs": [
+                "D:\\Code\\OTA\\qtUpgradeTools\\cmake-build-debug-vs_qt6\\vc140.pdb",
+                "CMakeFiles\\qtUpgradeTools.dir\\Src\\packager\\crc.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

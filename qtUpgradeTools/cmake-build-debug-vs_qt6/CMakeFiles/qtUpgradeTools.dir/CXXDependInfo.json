@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6",
+	"dir-cur-src" : "D:/Code/OTA/qtUpgradeTools",
+	"dir-top-bld" : "D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6",
+	"dir-top-src" : "D:/Code/OTA/qtUpgradeTools",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"qtUpgradeTools_autogen\\include",
+		"C:\\Qt\\6.7.3\\msvc2019_64\\include\\QtCore",
+		"C:\\Qt\\6.7.3\\msvc2019_64\\include",
+		"C:\\Qt\\6.7.3\\msvc2019_64\\mkspecs\\win32-msvc",
+		"C:\\Qt\\6.7.3\\msvc2019_64\\include\\QtGui",
+		"C:\\Qt\\6.7.3\\msvc2019_64\\include\\QtWidgets",
+		"C:\\Qt\\6.7.3\\msvc2019_64\\include\\QtSerialPort"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6/CMakeFiles/qtUpgradeTools.dir"
+}

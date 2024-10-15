@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtUpgradeTools",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtUpgradeTools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtUpgradeTools-Debug-c568b3929a3efcdb2abd.json",
+					"name" : "qtUpgradeTools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtUpgradeTools_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtUpgradeTools_autogen-Debug-1259ba04dcdc097a537b.json",
+					"name" : "qtUpgradeTools_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtUpgradeTools_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtUpgradeTools_autogen_timestamp_deps-Debug-ecead7ffc67e32e172ce.json",
+					"name" : "qtUpgradeTools_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/OTA/qtUpgradeTools/cmake-build-debug-vs_qt6",
+		"source" : "D:/Code/OTA/qtUpgradeTools"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
